@@ -1,0 +1,5 @@
+.idea/
+.venv/
+build/
+.DS_Store
+income.spec
